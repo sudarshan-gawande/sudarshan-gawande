@@ -1,6 +1,6 @@
 # Hey there👋, I'm Sudarshan Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Sudarshan;Aspiring"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Sudarshan...;Aspiring+DevOps+Engineer...;Java+Developer....;"/>
  
  <p>- <i>Software engineer with 1.5 years of experience in development and DevOps, specializing in CI/CD automation.
  Proficient in Git, Jenkins, JFrog Artifactory, SonarQube, and Checkmarx, with a strong foundation in Java and Spring Boot, and MySQL.</i></p>

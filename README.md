@@ -1,10 +1,10 @@
 # Hey there👋, I'm Sudarshan Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Sudarshan...;Aspiring+DevOps+Engineer...;Java+Developer....;"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Sudarshan...;Aspiring DevOps Engineer...;Java Developer...."/>
  
  <p>- <i>Software engineer with 1.5 years of experience in development and DevOps, specializing in CI/CD automation.
  Proficient in Git, Jenkins, JFrog Artifactory, SonarQube, and Checkmarx, with a strong foundation in Java and Spring Boot, and MySQL.<br/>
- Motivated to contribute to organizational success and eager to expand expertise in
+Motivated to contribute to organizational success and eager to expand expertise in
  advanced technologies.</i></p>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
@@ -25,7 +25,6 @@
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2021/07/13429_ILL_DevOpsLoop.png" width = 20px> </picture> DevOps Tools
-
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)

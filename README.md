@@ -11,10 +11,9 @@
 
 ## ⚡🙋‍♂️ About Me
 
-</br>
 
 - 🔧 **I'm Currently working on** `Java Development` **&** `DevOps`
-- 💡 I’m curious about ...DevOps Culture and Practices, Microservices Architecture
+- 💡 I’m curious about ...DevOps Culture and Practices
 - 📖 I’m currently learning ...Docker.
 - 🔧 You can visit [MY WEBSITE](https://sudarshangawande98.github.io/sudarshan/) for more about me.
 - 📫 Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=sudarshan&color=EA4335&style=flat-square)](mailto:sudarshangawande98@gmail.com)
@@ -22,7 +21,6 @@
 
 <hr>
 
-<br>
 
 ## 🛠️ My Skills
 
@@ -67,6 +65,6 @@
 
 <br>
 
-<h3>Where to find me</h3>
+## 🛠️ Where to find me
 <p><a href="https://github.com/sudarshangawande98" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sudarshan-gawande-187b141a7/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>

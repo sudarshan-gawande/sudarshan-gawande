@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Sudarshan...;Aspiring+DevOps+Engineer...;Java+Developer....;"/>
  
  <p>- <i>Software engineer with 1.5 years of experience in development and DevOps, specializing in CI/CD automation.
- Proficient in Git, Jenkins, JFrog Artifactory, SonarQube, and Checkmarx, with a strong foundation in Java and Spring Boot, and MySQL.</i></p>
- <p><i>Motivated to contribute to organizational success and eager to expand expertise in
+ Proficient in Git, Jenkins, JFrog Artifactory, SonarQube, and Checkmarx, with a strong foundation in Java and Spring Boot, and MySQL.<br/>
+ Motivated to contribute to organizational success and eager to expand expertise in
  advanced technologies.</i></p>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />

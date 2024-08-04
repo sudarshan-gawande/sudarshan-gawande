@@ -16,8 +16,8 @@ Motivated to contribute to organizational success and eager to expand expertise 
 - 🔧 **I'm Currently working on** `Java Development` **&** `DevOps`
 - 💡 I’m curious about ...DevOps Culture and Practices
 - 📖 I’m currently learning ...Docker.
-- 🔧 You can visit [MY WEBSITE][(https://sudarshangawande98.github.io/sudarshan/](https://sudarshangawande.com/)] for more about me.
-- 📫 Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=sudarshan&color=EA4335&style=flat-square)](mailto:sudarshangawande98@gmail.com)
+- 🔧 You can visit [MY WEBSITE]([https://sudarshangawande98.github.io/sudarshan/](https://sudarshangawande.com/)) for more about me.
+- - 📫 Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=sudarshan&color=EA4335&style=flat-square)](mailto:sudarshangawande98@gmail.com)
 - 🔧 Always believe `"You are what you loved"`
 
 <hr>

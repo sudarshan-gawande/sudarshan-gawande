@@ -13,7 +13,7 @@ Motivated to contribute to organizational success and eager to expand expertise 
 
 </br>
 
-- 🔧 **I'm Currently working on** `Java Development` **&** `DevOps`
+- 🔧 **I'm Currently working on** `Java Development` **&** `DevOps` in National Stock Exchange of India Ltd.
 - 💡 I’m curious about ...DevOps Culture and Practices
 - 📖 I’m currently learning ...Docker.
 - 🔧 You can visit [MY WEBSITE](https://sudarshangawande.com/) for more about me.

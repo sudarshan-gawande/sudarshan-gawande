@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Sudarshan...;DevOps+Engineer...;Java+Developer...."/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=F57C00&size=25&center=false&lines=hey!+its+Sudarshan...;DevOps+Engineer...;Java+Developer...."/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=0FA3B1&size=25&center=false&lines=hey!+its+Sudarshan...;DevOps+Engineer...;Java+Developer...."/>
 
 <p>- <i>DevOps Engineer with 2+ years of experience in automation, CI/CD, cloud infrastructure, and Java development.
    Skilled in Kubernetes, Docker, AWS, Terraform, Jenkins, GitHub Actions, and security tools like SonarQube. Proficient in Java, Spring Boot, and MySQL.<br/>

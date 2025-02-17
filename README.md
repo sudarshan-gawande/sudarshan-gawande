@@ -1,7 +1,7 @@
 # Hey there👋, I'm Sudarshan - Welcome to my GitHub Profile
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Sudarshan...;DevOps+Engineer...;Java+Developer...."/>
- 
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Sudarshan...;Aspiring+DevOps+Engineer...;Java+Developer...."/>
 <p>- <i>DevOps Engineer with 2+ years of experience in automation, CI/CD, cloud infrastructure, and Java development.
    Skilled in Kubernetes, Docker, AWS, Terraform, Jenkins, GitHub Actions, and security tools like SonarQube. Proficient in Java, Spring Boot, and MySQL.<br/>
    Passionate about building scalable, resilient infrastructure and implementing DevOps best practices.</i></p>

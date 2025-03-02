@@ -22,14 +22,14 @@
 ---
 
 ## 👋 **About Me**
-💼 **DevOps Engineer & Java Developer** at **National Stock Exchange of India Ltd.**
-🚀 Passionate about **Cloud Infrastructure, CI/CD, and Automation**
-🔧 Building **Scalable & Resilient** DevOps Pipelines using **Kubernetes, Docker, Terraform, AWS**
-🛠️ Skilled in **Java, Spring Boot, Microservices, and API Development**
-🌱 Currently **Exploring** Helm, Advanced Terraform, and Observability Tools.
-📝 I **share my work** at [Portfolio](https://sudarshangawande.com/)
-💡 Open to collaborations on **Cloud, DevOps & Automation Projects**
-🎯 **Motto:** "You are what you love." 🚀
+- 💼 **DevOps Engineer & Java Developer** at **National Stock Exchange of India Ltd.**
+- 🚀 Passionate about **Cloud Infrastructure, CI/CD, and Automation**
+- 🔧 Building **Scalable & Resilient** DevOps Pipelines using **Kubernetes, Docker, Terraform, AWS**
+- 🛠️ Skilled in **Java, Spring Boot, Microservices, and API Development**
+- 🌱 Currently **Exploring** Helm, Advanced Terraform, and Observability Tools.
+- 📝 I **share my work** at [Portfolio](https://sudarshangawande.com/)
+- 💡 Open to collaborations on **Cloud, DevOps & Automation Projects**
+- 🎯 **Motto:** "You are what you love." 🚀
 
 ---
 
@@ -50,6 +50,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-%23007A9C.svg?style=for-the-badge&logo=elastic-stack&logoColor=white)
+
 
 ### 💻 Programming & Backend Development
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

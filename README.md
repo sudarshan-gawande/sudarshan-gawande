@@ -32,6 +32,23 @@
 - 🎯 **Motto:** "You are what you love." 🚀
 
 ---
+<h2>🛠️ My DevOps Toolkit</h2>
+
+<h3>🔹 DevOps & Cloud Technologies</h3>
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232C5263.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<h3>🔹 Configuration Management & Observability</h3>
+<p>
+  <img src="https://img.shields.io/badge/Helm-%23000000.svg?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
+</p>
+
+---
 
 ## 🛠️ **My DevOps Toolkit**
 

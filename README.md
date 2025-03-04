@@ -30,7 +30,6 @@
 - 📝 I **share my work** at [Portfolio](https://sudarshangawande.com/)
 - 💡 Open to collaborations on **Cloud, DevOps & Automation Projects**
 - 🎯 **Motto:** "You are what you love." 🚀
-- 
 ---
 
 ## 🛠️ **My DevOps Toolkit**

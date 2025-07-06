@@ -75,6 +75,9 @@
 ## 📌 **Featured Projects**
 
 ### 🚀 DevOps & Automation
+- 🔗 [Enterprise-Grade AWS Infrastructure Automation with Terraform](https://github.com/sudarshan-gawande/aws-enterprise-infra-automation-terraform)
+  *Enterprise-Grade AWS Infrastructure Automation with Terraform*
+  
 - 🔗 [End-to-End CI/CD Pipeline Automation](https://github.com/sudarshan-gawande/End-to-End-CI-CD-Pipeline-Automation)  
   *Automated CI/CD pipeline with Jenkins, Docker, Kubernetes, and Terraform.*
 

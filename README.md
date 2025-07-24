@@ -13,7 +13,7 @@
 
 ---
 
-<p>- <i>DevOps Engineer with 2+ years of experience in automation, CI/CD, cloud infrastructure, and Java development.
+<p>- <i>DevOps Engineer with 2.8+ years of experience in automation, CI/CD, cloud infrastructure, and Java development.
    Skilled in Kubernetes, Docker, AWS, Terraform, Jenkins, GitHub Actions, and security tools like SonarQube. Proficient in Java, Spring Boot, and MySQL.<br/>
    Passionate about building scalable, resilient infrastructure and implementing DevOps best practices.</i></p>
 

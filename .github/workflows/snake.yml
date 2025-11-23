@@ -1,11 +1,12 @@
 name: Generate GitHub Contribution Snake
 
 on:
-  # run once a day
   schedule:
     - cron: "0 0 * * *"
-  # allow manual trigger
   workflow_dispatch:
+
+permissions:
+  contents: write   # 👈 REQUIRED so the bot can push
 
 jobs:
   build:

@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Sudarshan Gawande** — DevOps Engineer — Welcome to my GitHub Profile
+# 👋 Hey, I'm **Sudarshan Gawande** — DevOps Engineer <br> Welcome to my GitHub Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D8FF&width=600&lines=Building+Scalable+Cloud+Infrastructure;DevOps+%7C+Java+%7C+Automation;CI%2FCD+%7C+Kubernetes+%7C+Terraform;Always+Learning+%F0%9F%9A%80" />
 

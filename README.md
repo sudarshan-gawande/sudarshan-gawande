@@ -107,14 +107,43 @@ Expertise in building scalable, secure, production-grade platforms using:
 
 ---
 
-## 📊 **GitHub Stats & Contributions**
+<!-- ## 📊 **GitHub Stats & Contributions**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudarshan-gawande&show_icons=true&theme=dark&count_private=true" width="400"/>
   <img src="https://streak-stats.demolab.com?user=sudarshan-gawande&theme=dark" width="400"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-gawande&layout=compact&theme=dark" width="400"/>
+</p> -->
+
+## 📊 **GitHub Stats & Contributions**
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sudarshan-gawande&show_icons=true&theme=dark&count_private=true"
+    width="400"
+    alt="Sudarshan's GitHub stats"
+  />
 </p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=sudarshan-gawande&theme=dark&hide_border=true"
+      width="400"
+      alt="Sudarshan's GitHub streak"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-gawande&layout=compact&theme=dark"
+    width="400"
+    alt="Top languages"
+  />
+</p>
+
 
 ---
 

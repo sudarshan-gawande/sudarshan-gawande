@@ -1,6 +1,6 @@
-# Hey there👋, I'm Sudarshan - Welcome to my GitHub Profile
+# 👋 Hey, I'm **Sudarshan Gawande** : DevOps Engineer — Welcome to my GitHub Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0FA3B1&width=600&lines=Hello%2C+I'm+Sudarshan+Gawande!;DevOps+Engineer+%26+Java+Developer;Building+Scalable+Cloud+Infrastructure+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D8FF&width=600&lines=Building+Scalable+Cloud+Infrastructure;DevOps+%7C+Java+%7C+Automation;CI%2FCD+%7C+Kubernetes+%7C+Terraform;Always+Learning+%F0%9F%9A%80" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sudarshan-gawande&color=blue&style=flat-square)
 
@@ -13,51 +13,97 @@
 
 ---
 
-<p>- <i>DevOps Engineer with 2.8+ years of experience in automation, CI/CD, cloud infrastructure, and Java development.
-   Skilled in Kubernetes, Docker, AWS, Terraform, Jenkins, GitHub Actions, and security tools like SonarQube. Proficient in Java, Spring Boot, and MySQL.<br/>
-   Passionate about building scalable, resilient infrastructure and implementing DevOps best practices.</i></p>
+### 🚀 **About Me**
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right"/>
+
+DevOps Engineer with **3+ years of experience** in automation, cloud infrastructure, and CI/CD.  
+Expertise in building scalable, secure, production-grade platforms using:
+
+- **Kubernetes, Docker, AWS, Terraform**
+- **Jenkins, GitHub Actions, SonarQube, Grafana, Prometheus**
+- **Java, Spring Boot, Microservices**
+
+📌 Currently working at **National Stock Exchange of India Ltd.**  
+🌱 Learning **Helm, Observability, and Advanced Terraform.**  
+💡 Passionate about **Cloud + DevOps + Security Automation.**
+
+📝 I **share my work** at [Portfolio](https://sudarshangawande.com/)
 
 ---
 
-## 👋 **About Me**
-- 💼 **DevOps Engineer & Java Developer** at **National Stock Exchange of India Ltd.**
-- 🚀 Passionate about **Cloud Infrastructure, CI/CD, and Automation**
-- 🔧 Building **Scalable & Resilient** DevOps Pipelines using **Kubernetes, Docker, Terraform, AWS**
-- 🛠️ Skilled in **Java, Spring Boot, Microservices, and API Development**
-- 🌱 Currently **Exploring** Helm, Advanced Terraform, and Observability Tools.
-- 📝 I **share my work** at [Portfolio](https://sudarshangawande.com/)
-- 💡 Open to collaborations on **Cloud, DevOps & Automation Projects**
-- 🎯 **Motto:** "You are what you love." 🚀
+### ⚡ **What I Do**
+
+| Domain | Skills |
+|--------|--------|
+| **Cloud & Infrastructure** | AWS, EC2, IAM, S3, EKS, Route53, Terraform |
+| **CI/CD & Automation** | Jenkins, GitHub Actions, Maven, Gradle, Argo (learning) |
+| **Containers & Orchestration** | Docker, Kubernetes, Helm |
+| **Monitoring & Logging** | Grafana, Prometheus, ELK, OpenTelemetry |
+| **Backend Development** | Java, Spring Boot, Microservices, MySQL |
+| **Security & DevSecOps** | SonarQube, Snyk, Checkov, JFrog Artifactory |
+
 ---
 
-## 🛠️ **My DevOps Toolkit**
+### 🎯 **Core Highlights**
 
-### 🔹 DevOps & Cloud Technologies
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232C5263.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%230db7ed.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+- Built **enterprise-grade CI/CD pipelines** using Jenkins + Kubernetes + AWS.
+- Designed **secure IAM-based deployment workflows** for multi-environment architecture.
+- Automated infra provisioning using **Terraform modules & remote state**.
+- Developed **microservices in Java + Spring Boot** with REST APIs and JWT Auth.
+- Integrated **monitoring dashboards** for system reliability & performance.
 
-### 🔹 Configuration Management & Observability
-![Helm](https://img.shields.io/badge/Helm-%23000000.svg?style=for-the-badge&logo=helm&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-%23007A9C.svg?style=for-the-badge&logo=elastic-stack&logoColor=white)
+---
 
+### 🏆 **Tech Stack**
 
-### 💻 Programming & Backend Development
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+#### **🚀 DevOps, CI/CD & Automation**
+![Jenkins](https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions)
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
 
-### 🛡️ Security & Code Quality
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+#### **☁️ Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx)
+
+#### **📦 Build, Packaging & Version Control**
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=bitbucket)
+
+#### **🧪 Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana)
+![Elastic Stack](https://img.shields.io/badge/ELK_Stack-%23007A9C.svg?style=for-the-badge&logo=elastic-stack)
+
+#### **🛡️ Security, DevSecOps & Artifact Management**
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube)
+![JFrog Artifactory](https://img.shields.io/badge/JFrog_Artifactory-%2300CC00.svg?style=for-the-badge&logo=jfrog)
+![Trivy](https://img.shields.io/badge/Trivy-%239600FF.svg?style=for-the-badge&logo=aqua)
+
+#### **💻 Backend & Databases**
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[Enterprise AWS Infra with Terraform](https://github.com/sudarshan-gawande/aws-enterprise-infra-automation-terraform)** | Multi-region infra using Terraform modules, remote backend & IAM policies |
+| **[End-to-End CI/CD Pipeline](https://github.com/sudarshan-gawande/End-to-End-CI-CD-Pipeline-Automation)** | Automated deployments using Jenkins, Docker, Kubernetes |
+| **[Java DevOps CI/CD](https://github.com/sudarshan-gawande/Java-DevOps-CI-CD)** | GitHub Actions + SonarQube + JFrog + AWS deployments |
+| **[Ansible automation setup](https://github.com/sudarshan-gawande/ansible-automation-setup)** | Configuration management, application deployment, and task automation |
+| **[Docker Documentation](https://github.com/sudarshan-gawande/docker-docs)** | Docker, covering installation, setup, commands, best practices, and troubleshooting |
 
 ---
 
@@ -72,42 +118,15 @@
 
 ---
 
-## 📌 **Featured Projects**
+### 🌍 Connect With Me
 
-### 🚀 DevOps & Automation
-- 🔗 [Enterprise-Grade AWS Infrastructure Automation with Terraform](https://github.com/sudarshan-gawande/aws-enterprise-infra-automation-terraform)  
-  *Enterprise-Grade AWS Infrastructure Automation with Terraform*
-  
-- 🔗 [End-to-End CI/CD Pipeline Automation](https://github.com/sudarshan-gawande/End-to-End-CI-CD-Pipeline-Automation)  
-  *Automated CI/CD pipeline with Jenkins, Docker, Kubernetes, and Terraform.*
-
-- 🔗 [Java DevOps CI/CD](https://github.com/sudarshan-gawande/Java-DevOps-CI-CD)  
-  *CI/CD pipeline integrating GitHub Actions, SonarQube, JFrog, and AWS.*
-
-### ☁️ Cloud & Configuration Management
-- 🔗 [Spring Cloud Config Server](https://github.com/sudarshan-gawande/Spring-Cloud-Config)  
-  *A centralized configuration management system for microservices.*
-
-### 💻 Java & Spring Boot
-- 🔗 [Employee Management API](https://github.com/sudarshan-gawande/employee-api)  
-  *REST API for managing employee data using Spring Boot and MySQL.*
-
-### 🎨 Personal & Portfolio
-- 🔗 [GitHub Profile Repository](https://github.com/sudarshan-gawande/sudarshan-gawande)  
-  *Contains my GitHub Profile README & configurations.*
-
-- 🔗 [My Portfolio](https://github.com/sudarshan-gawande/my-portfolio)  
-  *Personal portfolio showcasing my work, projects & experience.*
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | https://sudarshangawande.com |
+| 🔗 LinkedIn | https://www.linkedin.com/in/sudarshan-gawande/ |
+| 📧 Email | sudarshangawande98@gmail.com |
+| 📝 Resume | https://sudarshangawande.com/assets/pdf/Sudarshan_Gawande_DevOps_Engineer_Resume.pdf |
 
 ---
 
-## 🌍 **Where to Find Me**
-<p>
- <a href="https://sudarshangawande.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/sudarshan-gawande/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:sudarshangawande98@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-💬 **Let's collaborate on DevOps & Cloud-based projects! 🚀**
+💬 *Always open for collaboration on DevOps, Cloud & Automation projects!* 🚀

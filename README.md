@@ -129,4 +129,12 @@ Expertise in building scalable, secure, production-grade platforms using:
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sudarshan-gawande/sudarshan-gawande/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 💬 *Always open for collaboration on DevOps, Cloud & Automation projects!* 🚀

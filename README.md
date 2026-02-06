@@ -1,12 +1,15 @@
-# 👋 Hey, I'm **Sudarshan Gawande** — DevOps Engineer <br> Welcome to my GitHub Profile
+# 👋 Hey, I'm **Sudarshan Gawande** — DevOps Engineer ☁️ AWS Certified
+Welcome to my GitHub Profile  
+**Building Cloud, DevOps & Automation Solutions**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D8FF&width=600&lines=Building+Scalable+Cloud+Infrastructure;DevOps+%7C+Java+%7C+Automation;CI%2FCD+%7C+Kubernetes+%7C+Terraform;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D8FF&width=650&lines=AWS+Certified+Cloud+Practitioner;Building+Scalable+Cloud+Infrastructure;DevOps+%7C+Automation+%7C+CI/CD;Kubernetes+%7C+Terraform+%7C+Docker" />
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sudarshan-gawande&color=blue&style=flat-square)
 
 ---
 
-## 🏆 **GitHub Achievements**
+## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sudarshan-gawande&theme=darkhub&margin-w=15&margin-h=15&row=1&column=7" />
 </p>
@@ -18,17 +21,19 @@
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right"/>
 
 DevOps Engineer with **3+ years of experience** in automation, cloud infrastructure, and CI/CD.  
+☁️ AWS Certified Cloud Practitioner.  
+
 Expertise in building scalable, secure, production-grade platforms using:
 
-- **Kubernetes, Docker, AWS, Terraform**
-- **Jenkins, GitHub Actions, SonarQube, Grafana, Prometheus**
-- **Java, Spring Boot, Microservices**
+- **Containers & Cloud:** Kubernetes, Docker, AWS, Terraform  
+- **CI/CD & Observability:** Jenkins, GitHub Actions, SonarQube, Grafana, Prometheus  
+- **Backend Development:** Java, Spring Boot, Microservices  
 
 📌 Currently working at **National Stock Exchange of India Ltd.**  
-🌱 Learning **Helm, Observability, and Advanced Terraform.**  
-💡 Passionate about **Cloud + DevOps + Security Automation.**
+🌱 Currently exploring **Helm, Observability, and advanced Terraform patterns**  
+💡 Passionate about **Cloud + DevOps + Security Automation**  
 
-📝 I **share my work** at [Portfolio](https://sudarshangawande.com/)
+📝 Explore my projects and writing at [Portfolio](https://sudarshangawande.com/)
 
 ---
 
@@ -36,12 +41,12 @@ Expertise in building scalable, secure, production-grade platforms using:
 
 | Domain | Skills |
 |--------|--------|
-| **Cloud & Infrastructure** | AWS, EC2, IAM, S3, EKS, Route53, Terraform |
-| **CI/CD & Automation** | Jenkins, GitHub Actions, Maven, Gradle, Argo (learning) |
+| **Cloud & Infrastructure** | AWS, Terraform, EC2, IAM, S3, EKS, Route53 |
+| **CI/CD & Automation** | Jenkins, GitHub Actions, Maven, Gradle, Argo (currently exploring) |
 | **Containers & Orchestration** | Docker, Kubernetes, Helm |
 | **Monitoring & Logging** | Grafana, Prometheus, ELK, OpenTelemetry |
 | **Backend Development** | Java, Spring Boot, Microservices, MySQL |
-| **Security & DevSecOps** | SonarQube, Snyk, Checkov, JFrog Artifactory |
+| **Security & DevSecOps** | SonarQube, JFrog Artifactory |
 
 ---
 
@@ -125,6 +130,7 @@ Expertise in building scalable, secure, production-grade platforms using:
 | 🌐 Portfolio | https://sudarshangawande.com |
 | 🔗 LinkedIn | https://www.linkedin.com/in/sudarshan-gawande/ |
 | 📧 Email | sudarshangawande98@gmail.com |
+| 🏅 Credly | https://www.credly.com/users/sudarshan-gawande/ |
 | 📝 Resume | https://sudarshangawande.com/assets/pdf/Sudarshan_Gawande_DevOps_Engineer_Resume.pdf |
 
 ---

@@ -1,146 +1,425 @@
-# 👋 Hey, I'm **Sudarshan Gawande** — DevOps Engineer ☁️ AWS Certified
-Welcome to my GitHub Profile  
-**Building Cloud, DevOps & Automation Solutions**
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║       SUDARSHAN GAWANDE — GITHUB PROFILE README  v9.0           ║ -->
+<!-- ║       Mobile-first · Responsive · Optimized for all screens     ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D8FF&width=650&lines=AWS+Certified+Cloud+Practitioner;Building+Scalable+Cloud+Infrastructure;DevOps+%7C+Automation+%7C+CI/CD;Kubernetes+%7C+Terraform+%7C+Docker" />
+<div align="center">
 
+<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=sudarshan-gawande&color=blue&style=flat-square)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:0891b2&height=280&section=header&text=Sudarshan%20Gawande&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20AWS%20Certified%20%E2%80%A2%20Cloud%20Infrastructure%20Specialist&descAlignY=62&descSize=16&animation=fadeIn"/>
+
+<!-- ═══════════════════ TYPING SVG ═══════════════════ -->
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%E2%9A%99%EF%B8%8F+Architecting+Cloud+Infrastructure;%F0%9F%94%84+Automating+Code+to+Cloud;%F0%9F%9B%A1%EF%B8%8F+DevSecOps+%7C+Zero-Trust+Pipelines;%F0%9F%93%88+Observability+%7C+SRE+%7C+Platform+Eng;%E2%98%81%EF%B8%8F+3%2B+Years+Cloud-Native+Systems" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ═══════════════════ STATS BADGES ═══════════════════ -->
+
+<a href="https://komarev.com/ghpvc/?username=sudarshan-gawande">
+<img src="https://komarev.com/ghpvc/?username=sudarshan-gawande&color=7c3aed&style=for-the-badge&label=VISITORS" alt="Profile Views"/></a>
+<a href="https://github.com/sudarshan-gawande?tab=followers">
+<img src="https://img.shields.io/github/followers/sudarshan-gawande?style=for-the-badge&color=0891b2&labelColor=0f172a&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/></a>
+<a href="https://github.com/sudarshan-gawande?tab=repositories">
+<img src="https://img.shields.io/github/stars/sudarshan-gawande?style=for-the-badge&color=f59e0b&labelColor=0f172a&label=TOTAL%20STARS&logo=github&logoColor=white" alt="Stars"/></a>
+
+<br/>
+
+<!-- ═══════════════════ SOCIAL LINKS ═══════════════════ -->
+
+<a href="https://www.linkedin.com/in/sudarshan-gawande/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://sudarshangawande.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:sudarshangawande98@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://sudarshangawande.com/assets/pdf/Sudarshan_Gawande_DevOps_Engineer_Resume.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Resume-22c55e?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ QUICK NAV ═══════════════════ -->
+
+<div align="center">
+
+[`About Me`](#-about-me) **·** [`What I Do`](#-what-i-do) **·** [`Tech Stack`](#-tech-stack) **·** [`Experience`](#-professional-journey) **·** [`Certifications`](#-certifications--credentials) **·** [`Projects`](#-featured-projects) **·** [`Stats`](#-github-stats) **·** [`Roadmap`](#%EF%B8%8F-2026-roadmap) **·** [`Connect`](#-lets-connect)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                           ABOUT ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> &nbsp; About Me
+
+<div align="center">
+
+```js
+const sudarshan = {
+    role:        "DevOps Engineer",
+    experience:  "3+ Years in Cloud & DevOps",
+    location:    "India",
+    certification: "AWS Certified Cloud Practitioner",
+    education:     "PG-DAC (CDAC)",
+
+    currentFocus: [
+        "Enterprise Kubernetes Platforms",
+        "GitOps with ArgoCD",
+        "Platform Engineering"
+    ],
+
+    learning: [
+        "Helm Charts", "OpenTelemetry",
+        "FinOps", "AI-driven DevOps"
+    ],
+
+    motto: "Automate the boring. Architect the extraordinary."
+};
+```
+
+<img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/DevOps-3%2B%20Years-7c3aed?style=flat-square&logo=devdotto&logoColor=white&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/CDAC-PG--DAC-0891b2?style=flat-square&logoColor=white&labelColor=0f172a"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          WHAT I DO                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🎯 &nbsp; What I Do
+
+<div align="center">
+
+🏗️ **Infrastructure** — Multi-region AWS via Terraform · EKS with Helm · Auto-scaling
+
+🔄 **CI/CD Pipelines** — Jenkins · GitHub Actions · K8s · Blue-green & rolling deploys
+
+🔒 **DevSecOps** — SonarQube SAST · Trivy scanning · Zero-trust IAM · Secrets management
+
+📊 **Observability** — Prometheus + Grafana · ELK Stack · OpenTelemetry tracing
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🛠 &nbsp; Tech Stack
+
+<div align="center">
+
+### ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e"/>
+
+### 🔄 CI/CD & Automation
+
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,bitbucket,ansible&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&labelColor=1a1a2e"/>
+
+### 📊 Monitoring & Security
+
+<img src="https://skillicons.dev/icons?i=grafana,elasticsearch,prometheus&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-4317A8?style=for-the-badge&logo=opentelemetry&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white&labelColor=1a1a2e"/>
+
+### 💻 Development & Tools
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,bash,vscode&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Microservices-0891b2?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=1a1a2e"/>
+
+<br/>
+
+### 📈 Proficiency
+
+| Domain | Technologies | Level |
+|:---:|:---|:---:|
+| ☁️ **AWS** | EC2 · EKS · S3 · IAM · Route53 · VPC | `████████████████░░` **Expert** |
+| 🐳 **Containers** | Docker · Kubernetes · Helm | `████████████████░░` **Expert** |
+| 🔄 **CI/CD** | Jenkins · GitHub Actions · ArgoCD | `████████████████░░` **Expert** |
+| 📊 **Monitoring** | Prometheus · Grafana · ELK · OTel | `███████████████░░░` **Advanced** |
+| 🏗️ **IaC** | Terraform · Ansible | `██████████████░░░░` **Advanced** |
+| 🔒 **DevSecOps** | SonarQube · Trivy · Secrets Mgmt | `█████████████░░░░░` **Proficient** |
+| 💻 **Backend** | Java · Spring Boot · REST | `█████████████░░░░░` **Proficient** |
+| 🚢 **GitOps** | ArgoCD · Flux CD | `██████████░░░░░░░░` **Learning** |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      PROFESSIONAL JOURNEY                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 💼 &nbsp; Professional Journey
+
+<div align="center">
+
+### 🟣 DevOps Engineer · NSE India Ltd. · *Present*
+
+> **Enterprise-grade cloud infrastructure & CI/CD at one of the world's largest stock exchanges**
+
+</div>
+
+| Area | Highlights |
+|:---|:---|
+| ⚙️ **CI/CD** | Enterprise pipelines — Jenkins + Kubernetes + AWS with rollback strategies |
+| 🔐 **Security** | IAM-hardened deployments across multi-environment architecture |
+| 📊 **Monitoring** | Full observability stack — Prometheus + Grafana + ELK |
+| 🏗️ **IaC** | Terraform modules · Remote state · Multi-region provisioning |
+| 🐳 **Containers** | Production K8s workloads with Helm chart management |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      CERTIFICATIONS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🎓 &nbsp; Certifications & Credentials
+
+<div align="center">
+
+<a href="https://www.credly.com/users/sudarshan-gawande/"><img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.udemy.com/certificate/UC-75cd1da5-0fb3-477b-b070-c19d0893d719/"><img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" height="90"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sudarshangawande.com/assets/pdf/cdac-certificate.pdf"><img src="https://img.shields.io/badge/CDAC-PG--DAC-0891b2?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0f172a" height="90"/></a>
+
+**AWS Certified** · **Master Docker & K8s** · **PG-DAC (CDAC)**
+
+<img src="https://img.shields.io/badge/✓_ACHIEVED-22c55e?style=flat-square&labelColor=14532d"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/✓_ACHIEVED-22c55e?style=flat-square&labelColor=14532d"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/✓_ACHIEVED-22c55e?style=flat-square&labelColor=14532d"/>
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudarshan-gawande&theme=darkhub&margin-w=15&margin-h=15&row=1&column=7" />
-</p>
+<img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://images.credly.com/size/150x150/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="90"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="90"/>
 
----
+**AWS Solutions Architect** · **CKA** · **Terraform Associate**
 
-### 🚀 **About Me**
+<img src="https://img.shields.io/badge/⏳_IN_PROGRESS-f59e0b?style=flat-square&labelColor=78350f"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📌_PLANNED-7c3aed?style=flat-square&labelColor=2e1065"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📌_PLANNED-7c3aed?style=flat-square&labelColor=2e1065"/>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right"/>
+</div>
 
-DevOps Engineer with **3+ years of experience** in automation, cloud infrastructure, and CI/CD.  
-☁️ AWS Certified Cloud Practitioner.  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-Expertise in building scalable, secure, production-grade platforms using:
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       FEATURED PROJECTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-- **Containers & Cloud:** Kubernetes, Docker, AWS, Terraform  
-- **CI/CD & Observability:** Jenkins, GitHub Actions, SonarQube, Grafana, Prometheus  
-- **Backend Development:** Java, Spring Boot, Microservices  
+## 🔥 &nbsp; Featured Projects
 
-📌 Currently working at **National Stock Exchange of India Ltd.**  
-🌱 Currently exploring **Helm, Observability, and advanced Terraform patterns**  
-💡 Passionate about **Cloud + DevOps + Security Automation**  
+<div align="center">
 
-📝 Explore my projects and writing at [Portfolio](https://sudarshangawande.com/)
+<a href="https://github.com/sudarshan-gawande/aws-enterprise-infra-automation-terraform">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=sudarshan-gawande&repo=aws-enterprise-infra-automation-terraform&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=22d3ee&text_color=e2e8f0"/>
+</a>
+<a href="https://github.com/sudarshan-gawande/End-to-End-CI-CD-Pipeline-Automation">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=sudarshan-gawande&repo=End-to-End-CI-CD-Pipeline-Automation&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=22d3ee&text_color=e2e8f0"/>
+</a>
 
----
+<a href="https://github.com/sudarshan-gawande/Java-DevOps-CI-CD">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=sudarshan-gawande&repo=Java-DevOps-CI-CD&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=22d3ee&text_color=e2e8f0"/>
+</a>
+<a href="https://github.com/sudarshan-gawande/ansible-automation-setup">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=sudarshan-gawande&repo=ansible-automation-setup&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=22d3ee&text_color=e2e8f0"/>
+</a>
 
-### ⚡ **What I Do**
+<a href="https://github.com/sudarshan-gawande/docker-docs">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=sudarshan-gawande&repo=docker-docs&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=22d3ee&text_color=e2e8f0"/>
+</a>
 
-| Domain | Skills |
-|--------|--------|
-| **Cloud & Infrastructure** | AWS, Terraform, EC2, IAM, S3, EKS, Route53 |
-| **CI/CD & Automation** | Jenkins, GitHub Actions, Maven, Gradle, Argo (currently exploring) |
-| **Containers & Orchestration** | Docker, Kubernetes, Helm |
-| **Monitoring & Logging** | Grafana, Prometheus, ELK, OpenTelemetry |
-| **Backend Development** | Java, Spring Boot, Microservices, MySQL |
-| **Security & DevSecOps** | SonarQube, JFrog Artifactory |
+</div>
 
----
+<br/>
 
-### 🎯 **Core Highlights**
+| 🚀 Project | 💡 What It Does | 🛠️ Stack |
+|:---|:---|:---|
+| **[Enterprise AWS Infra](https://github.com/sudarshan-gawande/aws-enterprise-infra-automation-terraform)** | Multi-region IaC with modules, remote state & IAM | `Terraform` `AWS` `S3` |
+| **[End-to-End CI/CD](https://github.com/sudarshan-gawande/End-to-End-CI-CD-Pipeline-Automation)** | Automated build → test → deploy pipeline | `Jenkins` `Docker` `K8s` |
+| **[Java DevOps CI/CD](https://github.com/sudarshan-gawande/Java-DevOps-CI-CD)** | GH Actions + SonarQube + JFrog + AWS | `Java` `GitHub Actions` |
+| **[Ansible Automation](https://github.com/sudarshan-gawande/ansible-automation-setup)** | Config management & app deployment | `Ansible` `YAML` `Linux` |
+| **[Docker Docs](https://github.com/sudarshan-gawande/docker-docs)** | Comprehensive Docker reference guide | `Docker` `Containers` |
 
-- Built **enterprise-grade CI/CD pipelines** using Jenkins + Kubernetes + AWS.
-- Designed **secure IAM-based deployment workflows** for multi-environment architecture.
-- Automated infra provisioning using **Terraform modules & remote state**.
-- Developed **microservices in Java + Spring Boot** with REST APIs and JWT Auth.
-- Integrated **monitoring dashboards** for system reliability & performance.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-### 🏆 **Tech Stack**
+## 📊 &nbsp; GitHub Stats
 
-#### **🚀 DevOps, CI/CD & Automation**
-![Jenkins](https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
+<div align="center">
 
-#### **☁️ Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudarshan-gawande&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=22d3ee&text_color=e2e8f0&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=sudarshan-gawande&theme=tokyonight&hide_border=true&background=0f172a&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=22d3ee&dates=94a3b8" alt="Streak Stats"/>
 
-#### **📦 Build, Packaging & Version Control**
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=bitbucket)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-gawande&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
 
-#### **🧪 Monitoring & Observability**
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana)
-![Elastic Stack](https://img.shields.io/badge/ELK_Stack-%23007A9C.svg?style=for-the-badge&logo=elastic-stack)
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshan-gawande&custom_title=Contribution%20Graph&bg_color=0f172a&color=a78bfa&line=22d3ee&point=f97316&area_color=7c3aed&title_color=a78bfa&area=true&hide_border=true&radius=8" alt="Contribution Graph"/>
 
-#### **🛡️ Security, DevSecOps & Artifact Management**
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube)
-![JFrog Artifactory](https://img.shields.io/badge/JFrog_Artifactory-%2300CC00.svg?style=for-the-badge&logo=jfrog)
-![Trivy](https://img.shields.io/badge/Trivy-%239600FF.svg?style=for-the-badge&logo=aqua)
+</div>
 
-#### **💻 Backend & Databases**
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       CONTRIBUTION SNAKE                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-### 🔥 Featured Projects
+## 🐍 &nbsp; Contribution Snake
 
-| Project | Description |
-|---------|-------------|
-| **[Enterprise AWS Infra with Terraform](https://github.com/sudarshan-gawande/aws-enterprise-infra-automation-terraform)** | Multi-region infra using Terraform modules, remote backend & IAM policies |
-| **[End-to-End CI/CD Pipeline](https://github.com/sudarshan-gawande/End-to-End-CI-CD-Pipeline-Automation)** | Automated deployments using Jenkins, Docker, Kubernetes |
-| **[Java DevOps CI/CD](https://github.com/sudarshan-gawande/Java-DevOps-CI-CD)** | GitHub Actions + SonarQube + JFrog + AWS deployments |
-| **[Ansible automation setup](https://github.com/sudarshan-gawande/ansible-automation-setup)** | Configuration management, application deployment, and task automation |
-| **[Docker Documentation](https://github.com/sudarshan-gawande/docker-docs)** | Docker, covering installation, setup, commands, best practices, and troubleshooting |
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sudarshan-gawande/sudarshan-gawande/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudarshan-gawande/sudarshan-gawande/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sudarshan-gawande/sudarshan-gawande/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
-## 📊 **GitHub Stats & Contributions**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudarshan-gawande&show_icons=true&theme=dark&count_private=true" width="400"/>
-  <img src="https://streak-stats.demolab.com?user=sudarshan-gawande&theme=dark" width="400"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-gawande&layout=compact&theme=dark" width="400"/>
-</p>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-### 🌍 Connect With Me
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          2026 ROADMAP                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-| Platform | Link |
-|----------|------|
-| 🌐 Portfolio | https://sudarshangawande.com |
-| 🔗 LinkedIn | https://www.linkedin.com/in/sudarshan-gawande/ |
-| 📧 Email | sudarshangawande98@gmail.com |
-| 🏅 Credly | https://www.credly.com/users/sudarshan-gawande/ |
-| 📝 Resume | https://sudarshangawande.com/assets/pdf/Sudarshan_Gawande_DevOps_Engineer_Resume.pdf |
+## 🗺️ &nbsp; 2026 Roadmap
 
----
+<div align="center">
 
-### 🐍 Contribution Snake
+| Quarter | 🎯 Goal | Status |
+|:---:|:---|:---:|
+| **Q1** | AWS Solutions Architect Associate (SAA-C03) | 🔄 In Progress |
+| **Q2** | ArgoCD + GitOps in Production | 📌 Planned |
+| **Q3** | CKA — Certified Kubernetes Administrator | 📌 Planned |
+| **Q4** | HashiCorp Terraform Associate 003 | 📌 Planned |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sudarshan-gawande/sudarshan-gawande/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+<br/>
 
----
+| Focus Area | Topics | Status |
+|:---|:---|:---:|
+| ☁️ **Platform Engineering** | IDP · Backstage.io · Self-service | 🔄 Exploring |
+| 🚢 **GitOps** | ArgoCD · Flux CD · Pull-based Deploys | 🔄 In Progress |
+| 📈 **Observability** | OTel · Distributed Tracing · SLOs | 🔄 In Progress |
+| 🏗️ **Advanced Terraform** | Sentinel · Custom Providers · CDK | 📌 Planned |
+| 🔒 **Supply Chain Security** | OPA · SBOM · DAST · Image Signing | 📌 Planned |
+| 💰 **FinOps** | Cost Optimization · Right-sizing | 📌 Planned |
+| 🤖 **AIOps** | AI Code Review · LLM Runbooks | 🌱 Curious |
 
-💬 *Always open for collaboration on DevOps, Cloud & Automation projects!* 🚀
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         FUN SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## ⚡ &nbsp; Beyond the Terminal
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=500&color=22D3EE&center=true&vCenter=true&width=500&lines=%24+cat+~%2F.config%2Flife.yml" alt="terminal typing"/>
+
+</div>
+
+```yaml
+# ~/.config/life.yml
+# Last modified: today at mass o'clock (coffee time)
+
+name: Sudarshan Gawande
+class: Cloud Architect + YAML Poet
+alignment: Chaotic DevOps
+
+daily_stack:
+  morning:    "kubectl get pods -A | grep -v Running | panic"
+  afternoon:  "terraform plan -out=masterpiece.tfplan"
+  evening:    "git push origin main --force  # jk, never force push"
+
+fun_facts:
+  - I write YAML the way poets write sonnets
+  - Grafana dashboards are my interior design
+  - "Works on my machine" died the day I learned Docker
+  - I fear YAML indentation more than prod deployments
+  - My blood type is kubectl, caffeine level is CRITICAL
+  - Weekend plans? Refactoring Terraform modules
+
+uptime: 99.97%    # the 0.03% was a coffee break
+error_budget: "Don't ask"
+
+motto: |
+  Ship fast. Monitor everything.
+  Break nothing in prod.
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          CONNECT                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🌍 &nbsp; Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sudarshan-gawande/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://sudarshangawande.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:sudarshangawande98@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.credly.com/users/sudarshan-gawande/" target="_blank">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+<a href="https://sudarshangawande.com/assets/pdf/Sudarshan_Gawande_DevOps_Engineer_Resume.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Resume-22c55e?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Quote"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:0891b2&height=150&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=30&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<sub>Crafted with ❤️ · ☕ · and far too many `kubectl get pods -A` commands</sub>
+
+<sub>**[Sudarshan Gawande](https://sudarshangawande.com)** · DevOps Engineer · AWS Certified</sub>
+
+</div>

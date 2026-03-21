@@ -169,8 +169,7 @@ const sudarshan = {
 <a href="https://www.udemy.com/certificate/UC-75cd1da5-0fb3-477b-b070-c19d0893d719/"><img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" height="80"/></a>
 <a href="https://sudarshangawande.com/assets/pdf/cdac-certificate.pdf"><img src="https://img.shields.io/badge/CDAC-PG--DAC-0891b2?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0f172a" height="45"/></a>
 
-AWS Cloud Practitioner · Docker & K8s
-PG-DAC (CDAC)
+AWS Cloud Practitioner · Docker & K8s<br/>PG-DAC (CDAC)
 
 ---
 
@@ -180,8 +179,7 @@ PG-DAC (CDAC)
 <img src="https://images.credly.com/size/150x150/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="80"/>
 <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="80"/>
 
-AWS Solutions Architect *(In Progress)*
-CKA *(Planned)* · Terraform *(Planned)*
+AWS Solutions Architect *(In Progress)*<br/>CKA *(Planned)* · Terraform *(Planned)*
 
 </div>
 

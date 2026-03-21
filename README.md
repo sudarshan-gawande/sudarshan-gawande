@@ -32,18 +32,22 @@
 
 ```js
 const sudarshan = {
-    role:        "DevOps Engineer",
-    experience:  "3+ Years in Cloud & DevOps",
-    location:    "India",
-    certification: "AWS Certified Cloud Practitioner",
-    education:     "PG-DAC (CDAC)",
-    currentFocus: [
-        "Enterprise Kubernetes Platforms",
-        "GitOps with ArgoCD",
-        "Platform Engineering"
-    ],
-    learning: ["Helm", "OpenTelemetry", "FinOps", "AIOps"],
-    motto: "Automate the boring. Architect the extraordinary."
+  role:      "DevOps Engineer",
+  exp:       "3+ Years Cloud & DevOps",
+  location:  "India",
+  cert:      "AWS Cloud Practitioner",
+  education: "PG-DAC (CDAC)",
+  focus: [
+    "Enterprise K8s Platforms",
+    "GitOps with ArgoCD",
+    "Platform Engineering"
+  ],
+  learning: [
+    "Helm", "OTel",
+    "FinOps", "AIOps"
+  ],
+  motto: "Automate the boring."
+        +"Architect the extra."
 };
 ```
 
@@ -57,13 +61,13 @@ const sudarshan = {
 
 ## 🎯 &nbsp; What I Do
 
-> 🏗️ **Infrastructure** — Multi-region AWS via Terraform · EKS with Helm · Auto-scaling
+> 🏗️ **Infrastructure** — Multi-region AWS via Terraform · EKS · Helm
 >
-> 🔄 **CI/CD Pipelines** — Jenkins · GitHub Actions · K8s · Blue-green & rolling deploys
+> 🔄 **CI/CD** — Jenkins · GitHub Actions · K8s · Blue-green deploys
 >
-> 🔒 **DevSecOps** — SonarQube SAST · Trivy scanning · Zero-trust IAM · Secrets management
+> 🔒 **DevSecOps** — SonarQube · Trivy · Zero-trust IAM
 >
-> 📊 **Observability** — Prometheus + Grafana · ELK Stack · OpenTelemetry distributed tracing
+> 📊 **Observability** — Prometheus + Grafana · ELK · OTel tracing
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -147,11 +151,11 @@ const sudarshan = {
 
 | Area | Highlights |
 |:---|:---|
-| ⚙️ **CI/CD** | Enterprise pipelines — Jenkins + K8s + AWS with rollback strategies |
-| 🔐 **Security** | IAM-hardened multi-environment deployment architecture |
-| 📊 **Monitoring** | Full observability — Prometheus + Grafana + ELK |
-| 🏗️ **IaC** | Terraform modules · Remote state · Multi-region provisioning |
-| 🐳 **Containers** | Production K8s workloads with Helm chart management |
+| ⚙️ **CI/CD** | Jenkins + K8s + AWS pipelines with rollback |
+| 🔐 **Security** | IAM-hardened multi-env deployments |
+| 📊 **Monitoring** | Prometheus + Grafana + ELK stack |
+| 🏗️ **IaC** | Terraform modules · Multi-region |
+| 🐳 **Containers** | Production K8s with Helm charts |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -165,7 +169,8 @@ const sudarshan = {
 <a href="https://www.udemy.com/certificate/UC-75cd1da5-0fb3-477b-b070-c19d0893d719/"><img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" height="80"/></a>
 <a href="https://sudarshangawande.com/assets/pdf/cdac-certificate.pdf"><img src="https://img.shields.io/badge/CDAC-PG--DAC-0891b2?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0f172a" height="45"/></a>
 
-AWS Cloud Practitioner · Master Docker & K8s · PG-DAC (CDAC)
+AWS Cloud Practitioner · Docker & K8s
+PG-DAC (CDAC)
 
 ---
 
@@ -175,7 +180,8 @@ AWS Cloud Practitioner · Master Docker & K8s · PG-DAC (CDAC)
 <img src="https://images.credly.com/size/150x150/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="80"/>
 <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="80"/>
 
-AWS Solutions Architect *(In Progress)* · CKA *(Planned)* · Terraform Associate *(Planned)*
+AWS Solutions Architect *(In Progress)*
+CKA *(Planned)* · Terraform *(Planned)*
 
 </div>
 
@@ -277,19 +283,19 @@ name: Sudarshan Gawande
 class: Cloud Architect + YAML Poet
 
 daily_stack:
-  morning:    "kubectl get pods -A | grep -v Running | panic"
-  afternoon:  "terraform plan -out=masterpiece.tfplan"
-  evening:    "git push origin main --force  # jk, never force"
+  morning:   "kubectl get pods -A"
+  afternoon: "terraform plan"
+  evening:   "git push # never force"
 
 fun_facts:
-  - I write YAML the way poets write sonnets
-  - Grafana dashboards are my interior design
-  - "Works on my machine" died with Docker
-  - YAML indentation scares me more than prod
-  - Blood type: kubectl | Caffeine: CRITICAL
-  - Weekend plans? Refactoring Terraform modules
+  - YAML poet by profession
+  - Grafana = my interior design
+  - Docker killed "works on my machine"
+  - YAML indent > prod deploy fear
+  - Blood type: kubectl
+  - Weekends: Refactoring Terraform
 
-uptime: 99.97%    # 0.03% was a coffee break
+uptime: 99.97%  # 0.03% = coffee break
 
 motto: |
   Ship fast. Monitor everything.
@@ -310,13 +316,13 @@ motto: |
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" width="100%" alt="Quote"/>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:0891b2&height=120&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<sub>Crafted with ❤️ · ☕ · and far too many `kubectl get pods -A` commands</sub>
+<sub>Crafted with ❤️ · ☕ · and too many `kubectl` commands</sub>
 
 <sub>**[Sudarshan Gawande](https://sudarshangawande.com)** · DevOps Engineer · AWS Certified</sub>
 

@@ -11,16 +11,16 @@
 
 <!-- Dynamic Terminal Typing Subtitle -->
 <a href="https://sudarshangawande.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Architecting+Scalable+Multi-Region+AWS+Cloud;Automating+Zero-Downtime+Declarative+CI%2FCD;Infrastructure+as+Code+%E2%80%A2+Modular+Terraform;Enterprise+Kubernetes+%E2%80%A2+Docker+%E2%80%A2+GitOps;Proactive+Observability+%E2%80%A2+Prometheus+%2B+Grafana;Cloud+Economics+%E2%80%A2+FinOps+%2B+Bedrock+AI+Platform" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Architecting+Scalable+Multi-Region+AWS+Cloud;Automating+Zero-Downtime+Declarative+CI%2FCD;Infrastructure+as+Code+%E2%80%A2+Modular+Terraform;Enterprise+Kubernetes+%E2%80%A2+Docker+%E2%80%A2+GitOps;Proactive+Observability+%E2%80%A2+Prometheus+%2B+Grafana;Cloud+Economics+%E2%80%A2+FinOps+%2B+Bedrock+AI+Platform" alt="Typing Subtitle" />
 </a>
 
 <br/>
 
 <!-- Live Status & Telemetry Bar -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL_🟢-0d1117?style=flat-square&logoColor=22c55e" alt="Status"/>
-  <img src="https://img.shields.io/badge/CLOUD-AWS_AP--SOUTH--1_🇮🇳-232f3e?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="Cloud"/>
-  <img src="https://img.shields.io/badge/UPTIME_SLA-99.99%25-0284c7?style=flat-square" alt="Uptime"/>
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL_ONLINE-0284c7?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/CLOUD-AWS_AP--SOUTH--1-232f3e?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/UPTIME_SLA-99.99%25_AVAILABILITY-22c55e?style=flat-square" alt="Uptime"/>
   <img src="https://img.shields.io/badge/FOCUS-PLATFORM_ENGINEERING-818cf8?style=flat-square" alt="Focus"/>
 </p>
 
@@ -30,16 +30,16 @@
     <img src="https://komarev.com/ghpvc/?username=sudarshan-gawande&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/sudarshan-gawande/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://sudarshangawande.com">
-    <img src="https://img.shields.io/badge/Portfolio-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.credly.com/users/sudarshan-gawande/">
-    <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified" />
+    <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
   </a>
   <a href="mailto:sudarshangawande98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -51,22 +51,21 @@
 
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td align="center" style="padding: 16px;">
-      <a href="https://sudarshangawande.com">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=%E2%80%9CAutomate+the+predictable.+Architect+for+the+unexpected.%E2%80%9D;%E2%80%9CAny+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.%E2%80%9D+%E2%80%94+M.+Fowler;%E2%80%9CIn+cloud+infrastructure%2C+simplicity+is+the+ultimate+sophistication.%E2%80%9D;%E2%80%9CShip+fast.+Monitor+everything.+Break+nothing+in+production.%E2%80%9D" alt="DevOps Quotes" />
-      </a>
-      <br/>
-      <p style="margin-top: 8px;">
-        <img src="https://img.shields.io/badge/Principle-Zero--Downtime_Reliability-0284c7?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Principle-Infrastructure_as_Code-7B42BC?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Principle-Proactive_Observability-F46800?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Principle-Cost_Efficiency-22C55E?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> — **Martin Fowler**
+
+<br/>
+
+<a href="https://sudarshangawande.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=580&lines=Automate+the+predictable.+Architect+for+the+unexpected.;Ship+fast.+Observe+everything.+Break+nothing+in+production.;In+cloud+architecture%2C+simplicity+is+the+ultimate+sophistication.;Infrastructure+as+Code+%E2%80%A2+Continuous+Delivery+%E2%80%A2+High+Availability" alt="DevOps Quotes" />
+</a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Reliability-Zero_Downtime-0284c7?style=flat-square" alt="Reliability"/>
+  <img src="https://img.shields.io/badge/Architecture-Infrastructure_as_Code-7B42BC?style=flat-square" alt="IaC"/>
+  <img src="https://img.shields.io/badge/Observability-Proactive_Alerting-F46800?style=flat-square" alt="Observability"/>
+  <img src="https://img.shields.io/badge/Economics-FinOps_Optimized-22C55E?style=flat-square" alt="FinOps"/>
+</p>
 
 </div>
 
@@ -105,22 +104,22 @@ core_mantra: |
     <td width="25%" align="center" valign="top">
       <h3>🏗️ Cloud & IaC</h3>
       <p>Modular, reusable Terraform configurations with remote state locking, multi-AZ VPC topologies, and IAM zero-trust boundaries.</p>
-      <img src="https://img.shields.io/badge/AWS-Terraform-7B42BC?style=flat-square"/>
+      <code>Terraform</code> &nbsp; <code>AWS VPC</code> &nbsp; <code>IaC</code>
     </td>
     <td width="25%" align="center" valign="top">
       <h3>☸️ Containers</h3>
       <p>High-availability orchestration with Amazon EKS, ECS Fargate, Docker packaging, and automated rolling deployments.</p>
-      <img src="https://img.shields.io/badge/Kubernetes-Docker-326CE5?style=flat-square"/>
+      <code>Kubernetes</code> &nbsp; <code>Docker</code> &nbsp; <code>EKS</code>
     </td>
     <td width="25%" align="center" valign="top">
       <h3>🔄 CI/CD & Security</h3>
       <p>Declarative Jenkins & GitHub Actions pipelines with SonarQube quality gates and JFrog artifact versioning.</p>
-      <img src="https://img.shields.io/badge/Jenkins-DevSecOps-D24939?style=flat-square"/>
+      <code>Jenkins</code> &nbsp; <code>DevSecOps</code> &nbsp; <code>SonarQube</code>
     </td>
     <td width="25%" align="center" valign="top">
       <h3>💰 FinOps & AI</h3>
       <p>EC2 rightsizing, storage optimization, Bedrock model access enablement, and automated cloud cost governance.</p>
-      <img src="https://img.shields.io/badge/FinOps-Bedrock-00A4A6?style=flat-square"/>
+      <code>FinOps</code> &nbsp; <code>Bedrock AI</code> &nbsp; <code>Budgets</code>
     </td>
   </tr>
 </table>
@@ -145,7 +144,7 @@ core_mantra: |
       <small>Amazon Web Services (AWS) • Verified</small>
       <br/><br/>
       <a href="https://www.credly.com/users/sudarshan-gawande/">
-        <img src="https://img.shields.io/badge/Verified-Credly-FF9900?style=for-the-badge&logo=credly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Verified-Credly-FF9900?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Verified"/>
       </a>
     </td>
     <td width="33%" valign="top">
@@ -158,7 +157,7 @@ core_mantra: |
       <small>64.5h Intensive Program • Orchestration</small>
       <br/><br/>
       <a href="https://www.udemy.com/certificate/UC-75cd1da5-0fb3-477b-b070-c19d0893d7f9/">
-        <img src="https://img.shields.io/badge/Certified-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Certified-Udemy-A435F0?style=for-the-badge" alt="Udemy Certified"/>
       </a>
     </td>
     <td width="33%" valign="top">
@@ -171,7 +170,7 @@ core_mantra: |
       <small>C-DAC Mumbai • 900 Hours (Grade A)</small>
       <br/><br/>
       <a href="https://sudarshangawande.com/assets/pdf/cdac-certificate.pdf">
-        <img src="https://img.shields.io/badge/Grade_A-Honors-22c55e?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Grade_A-Honors-22c55e?style=for-the-badge" alt="Grade A Honors"/>
       </a>
     </td>
   </tr>
@@ -202,46 +201,28 @@ core_mantra: |
 
 <div align="center">
 
-#### ☁️ Cloud Platforms & Core Services
+<p><b>☁️ Cloud Platforms & Compute Infrastructure</b></p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx&theme=dark&perline=5"/>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
-  <img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white" alt="ECS"/>
-  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" alt="EKS"/>
-  <img src="https://img.shields.io/badge/VPC_Networking-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="VPC"/>
-  <img src="https://img.shields.io/badge/Aurora_MySQL-232F3E?style=flat-square&logo=amazonrds&logoColor=white" alt="Aurora"/>
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-00A4A6?style=flat-square&logo=amazonaws&logoColor=white" alt="Bedrock"/>
-  <img src="https://img.shields.io/badge/Linux_RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHEL"/>
+<p>
+  <code>AWS (EC2, ECS Fargate, EKS, VPC, Aurora, S3, IAM)</code> &bull; <code>Amazon Bedrock</code> &bull; <code>RHEL / Ubuntu</code>
 </p>
 
-#### ⚙️ Infrastructure as Code & Automation
+<p><b>⚙️ Infrastructure as Code, Automation & Scripting</b></p>
 <img src="https://skillicons.dev/icons?i=terraform,ansible,bash&theme=dark&perline=3"/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/Helm_Charts-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
-  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+<p>
+  <code>Terraform (Modular HCL)</code> &bull; <code>Ansible Playbooks</code> &bull; <code>Helm Charts</code> &bull; <code>Bash Shell Scripting</code>
 </p>
 
-#### 🔄 CI/CD, DevSecOps & Artifact Governance
+<p><b>🔄 CI/CD, Quality Gates & DevSecOps</b></p>
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,gitlab&theme=dark&perline=5"/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-  <img src="https://img.shields.io/badge/JFrog_Artifactory-41BF47?style=flat-square&logo=jfrog&logoColor=white" alt="JFrog"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
+<p>
+  <code>Declarative Jenkins</code> &bull; <code>GitHub Actions</code> &bull; <code>GitLab CI</code> &bull; <code>SonarQube</code> &bull; <code>JFrog Artifactory</code> &bull; <code>Maven</code>
 </p>
 
-#### 📊 Observability, FinOps & Scripting
+<p><b>📊 Observability, Security & FinOps Governance</b></p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,py&theme=dark&perline=3"/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
-  <img src="https://img.shields.io/badge/AWS_Cost_Explorer-38BDF8?style=flat-square&logo=amazonaws&logoColor=white" alt="Cost Explorer"/>
-  <img src="https://img.shields.io/badge/FinOps_Rightsizing-22C55E?style=flat-square&logo=googlecloud&logoColor=white" alt="FinOps"/>
-  <img src="https://img.shields.io/badge/Python_Boto3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Boto3"/>
+<p>
+  <code>Prometheus</code> &bull; <code>Grafana Dashboards</code> &bull; <code>AWS CloudWatch</code> &bull; <code>AWS Cost Explorer</code> &bull; <code>FinOps Rightsizing</code> &bull; <code>Python (Boto3)</code>
 </p>
 
 </div>
@@ -253,106 +234,74 @@ core_mantra: |
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td>
-            <a href="https://github.com/sudarshan-gawande/aws-enterprise-infra-automation-terraform">
-              <h3>🏗️ aws-enterprise-infra-automation-terraform</h3>
-            </a>
-            <p><b>Enterprise Modular Infrastructure as Code on AWS</b></p>
-            <p>
-              Production-ready Terraform architecture featuring multi-AZ VPC segmentation, automated EC2 compute clustering, and IAM least-privilege policies. Configured with Amazon S3 remote state locking via DynamoDB, automated GitHub Actions CI/CD checks, and integrated Prometheus/Grafana node observability.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/Terraform-1.5+-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-              <img src="https://img.shields.io/badge/AWS-Multi--AZ-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-              <img src="https://img.shields.io/badge/Prometheus-Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
-            </p>
-            <p>
-              <a href="https://github.com/sudarshan-gawande/aws-enterprise-infra-automation-terraform">
-                <img src="https://img.shields.io/badge/Explore_Repository_➔-0284c7?style=flat-square&logo=github&logoColor=white" alt="Explore"/>
-              </a>
-            </p>
-          </td>
-        </tr>
-      </table>
+      <h4><a href="https://github.com/sudarshan-gawande/aws-enterprise-infra-automation-terraform">🏗️ aws-enterprise-infra-automation-terraform</a></h4>
+      <p><b>Enterprise Modular Infrastructure as Code on AWS</b></p>
+      <p>
+        Production-ready Terraform architecture featuring multi-AZ VPC segmentation, automated EC2 compute clustering, and IAM least-privilege policies. Configured with Amazon S3 remote state locking via DynamoDB, automated GitHub Actions CI/CD checks, and integrated Prometheus/Grafana node observability.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square" alt="Terraform"/>
+        <img src="https://img.shields.io/badge/AWS-Multi_AZ-FF9900?style=flat-square" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Prometheus-Observability-E6522C?style=flat-square" alt="Prometheus"/>
+      </p>
+      <p>
+        <a href="https://github.com/sudarshan-gawande/aws-enterprise-infra-automation-terraform">
+          <b>View Repository ➔</b>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td>
-            <a href="https://github.com/sudarshan-gawande/end-to-end-cicd-pipeline">
-              <h3>🔄 end-to-end-cicd-pipeline</h3>
-            </a>
-            <p><b>Cloud-Native Zero-Touch CI/CD Pipeline</b></p>
-            <p>
-              End-to-end declarative Jenkins pipeline automating build validation, SonarQube static code quality gates, JFrog Artifactory container versioning, and zero-downtime rolling deployments onto Kubernetes clusters. Standardized with Git commit triggers and email alerting.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/Jenkins-Declarative-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
-              <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-              <img src="https://img.shields.io/badge/Kubernetes-EKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-            </p>
-            <p>
-              <a href="https://github.com/sudarshan-gawande/end-to-end-cicd-pipeline">
-                <img src="https://img.shields.io/badge/Explore_Repository_➔-0284c7?style=flat-square&logo=github&logoColor=white" alt="Explore"/>
-              </a>
-            </p>
-          </td>
-        </tr>
-      </table>
+      <h4><a href="https://github.com/sudarshan-gawande/end-to-end-cicd-pipeline">🔄 end-to-end-cicd-pipeline</a></h4>
+      <p><b>Cloud-Native Zero-Touch CI/CD Pipeline</b></p>
+      <p>
+        End-to-end declarative Jenkins pipeline automating build validation, SonarQube static code quality gates, JFrog Artifactory container versioning, and zero-downtime rolling deployments onto Kubernetes clusters. Standardized with Git commit triggers and build alerts.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Jenkins-Declarative-D24939?style=flat-square" alt="Jenkins"/>
+        <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Kubernetes-EKS-326CE5?style=flat-square" alt="Kubernetes"/>
+      </p>
+      <p>
+        <a href="https://github.com/sudarshan-gawande/end-to-end-cicd-pipeline">
+          <b>View Repository ➔</b>
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td>
-            <a href="https://github.com/sudarshan-gawande/ansible-zero-to-hero">
-              <h3>⚙️ ansible-zero-to-hero</h3>
-            </a>
-            <p><b>Configuration Management & Server Hardening</b></p>
-            <p>
-              Idempotent Ansible playbooks designed for Linux server provisioning, zero-trust security configuration, automated package lifecycle management, and drift remediation across hybrid enterprise fleet instances.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/Ansible-Playbooks-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
-              <img src="https://img.shields.io/badge/Linux-Hardening-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-              <img src="https://img.shields.io/badge/Security-CIS_Hardened-22c55e?style=flat-square" alt="Security"/>
-            </p>
-            <p>
-              <a href="https://github.com/sudarshan-gawande/ansible-zero-to-hero">
-                <img src="https://img.shields.io/badge/Explore_Repository_➔-0284c7?style=flat-square&logo=github&logoColor=white" alt="Explore"/>
-              </a>
-            </p>
-          </td>
-        </tr>
-      </table>
+      <h4><a href="https://github.com/sudarshan-gawande/ansible-zero-to-hero">⚙️ ansible-zero-to-hero</a></h4>
+      <p><b>Configuration Management & Server Hardening</b></p>
+      <p>
+        Idempotent Ansible playbooks designed for Linux server provisioning, zero-trust security configuration, automated package lifecycle management, and drift remediation across hybrid enterprise fleet instances.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Ansible-Playbooks-EE0000?style=flat-square" alt="Ansible"/>
+        <img src="https://img.shields.io/badge/Linux-Hardening-FCC624?style=flat-square" alt="Linux"/>
+        <img src="https://img.shields.io/badge/Security-CIS_Hardened-22c55e?style=flat-square" alt="Security"/>
+      </p>
+      <p>
+        <a href="https://github.com/sudarshan-gawande/ansible-zero-to-hero">
+          <b>View Repository ➔</b>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td>
-            <a href="https://github.com/sudarshan-gawande/cicd-pipeline-automation">
-              <h3>☕ cicd-pipeline-automation</h3>
-            </a>
-            <p><b>Java Microservices Deployment Lifecycle</b></p>
-            <p>
-              Full enterprise deployment framework for Java & Spring Boot microservices featuring Maven build automation, unit/integration testing stages, Apache Tomcat application hosting, and Nginx reverse proxy configuration.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-              <img src="https://img.shields.io/badge/Maven-Build_Lifecycle-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
-              <img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-            </p>
-            <p>
-              <a href="https://github.com/sudarshan-gawande/cicd-pipeline-automation">
-                <img src="https://img.shields.io/badge/Explore_Repository_➔-0284c7?style=flat-square&logo=github&logoColor=white" alt="Explore"/>
-              </a>
-            </p>
-          </td>
-        </tr>
-      </table>
+      <h4><a href="https://github.com/sudarshan-gawande/cicd-pipeline-automation">☕ cicd-pipeline-automation</a></h4>
+      <p><b>Java Microservices Deployment Lifecycle</b></p>
+      <p>
+        Full enterprise deployment framework for Java & Spring Boot microservices featuring Maven build automation, unit/integration testing stages, Apache Tomcat application hosting, and Nginx reverse proxy configuration.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=flat-square" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/Maven-Build_Lifecycle-C71A36?style=flat-square" alt="Maven"/>
+        <img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=flat-square" alt="Nginx"/>
+      </p>
+      <p>
+        <a href="https://github.com/sudarshan-gawande/cicd-pipeline-automation">
+          <b>View Repository ➔</b>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
